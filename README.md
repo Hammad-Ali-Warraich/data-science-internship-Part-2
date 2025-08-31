@@ -4,7 +4,7 @@ This repository contains solutions for three data science tasks focusing on clas
 
 ## Tasks
 
-### 1. Customer Churn Prediction (Task 3)
+### 1. Customer Churn Prediction 
 **Objective:**  
 Identify customers who are likely to leave the bank using historical customer data.  
 
